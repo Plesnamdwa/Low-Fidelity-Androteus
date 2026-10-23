@@ -1,0 +1,23 @@
+# Compilations & Binary Artifacts
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Release Archives (Keep release/ and zip optional or uncommitted to source)
+release/
+*.zip
+
+# IDE & Editor Metadata
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
